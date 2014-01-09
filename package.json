@@ -1,6 +1,12 @@
 {
     "name": "next",
-    "repo": "caolan/async",
+    "repository": {
+        "type":"git",
+        "url":"https://github.com/galkinrost/next.git"
+    },
+    "bugs":{
+        "url":"https://github.com/galkinrost/next/issues"
+    },
     "description": "Simple flow-control functions",
     "version": "0.0.1",
     "author": {
@@ -18,6 +24,5 @@
         "async": "~0.2.9"
     },
     "development": {},
-    "main": "lib/next.js",
-    "scripts": [ "lib/next.js" ]
+    "main": "./lib/next.js"
 }
