@@ -1,11 +1,11 @@
 {
     "name": "chain-reaction",
     "repository": {
-        "type":"git",
-        "url":"https://github.com/galkinrost/next.git"
+        "type": "git",
+        "url": "https://github.com/galkinrost/chain-reaction.git"
     },
-    "bugs":{
-        "url":"https://github.com/galkinrost/next/issues"
+    "bugs": {
+        "url": "https://github.com/galkinrost/chain-reaction/issues"
     },
     "description": "Simple flow-control functions",
     "version": "0.0.1",
@@ -24,5 +24,6 @@
         "async": "~0.2.9"
     },
     "development": {},
-    "main": "./lib/next.js"
+    "main": "./lib/next.js",
+    "readmeFilename": "README.md"
 }
