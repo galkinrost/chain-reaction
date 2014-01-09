@@ -1,0 +1,23 @@
+{
+    "name": "next",
+    "repo": "caolan/async",
+    "description": "Simple flow-control functions",
+    "version": "0.0.1",
+    "author": {
+        "name": "Galkin Rostislav",
+        "email": "galkinrost@gmail.com"
+    },
+    "keywords": [
+        "async",
+        "callback",
+        "queue",
+        "flow",
+        "control"
+    ],
+    "dependencies": {
+        "async": "~0.2.9"
+    },
+    "development": {},
+    "main": "lib/next.js",
+    "scripts": [ "lib/next.js" ]
+}
