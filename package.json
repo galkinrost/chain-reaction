@@ -20,6 +20,12 @@
         "flow",
         "control"
     ],
+    "licenses" : [
+        {
+            "type" : "MIT",
+            "url" : "https://raw2.github.com/galkinrost/chain-reaction/master/LICENSE"
+        }
+    ],
     "dependencies": {
         "async": "~0.2.9"
     },
